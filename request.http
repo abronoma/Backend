@@ -1,0 +1,10 @@
+GET http://localhost:6000/api/facilitator/8
+
+Content-Type: application/json
+
+
+# { 
+#     "fac_name": "Ekua Toffee",
+#     "fac_region": " Ahafo"
+# }
+
